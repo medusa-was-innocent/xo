@@ -1,0 +1,40 @@
+{
+  "url": "http://127.0.0.1:8081/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "XO Universe",
+      "hasCanvas": false,
+      "bodyTextLen": 160,
+      "bodyTextHash": "9a035651e285bba20853b48d135aa7f2094b857ec7dbdd4e370b2dd21bfb7550",
+      "bodyTextPrefix": "NINE ERAS · ONE ORBIT UNIVERSE 0% OPENING THE NIGHT I can't feel",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "XO Universe",
+      "hasCanvas": false,
+      "bodyTextLen": 160,
+      "bodyTextHash": "9a035651e285bba20853b48d135aa7f2094b857ec7dbdd4e370b2dd21bfb7550",
+      "bodyTextPrefix": "NINE ERAS · ONE ORBIT UNIVERSE 0% OPENING THE NIGHT I can't feel",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-built.json",
+  "divergesFromBaseline": true,
+  "baselineReasons": [
+    "mobile: body text replaced (similar length, page start changed)"
+  ]
+}

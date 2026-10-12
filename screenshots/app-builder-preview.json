@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "XO Universe",
+      "hasCanvas": false,
+      "bodyTextLen": 160,
+      "bodyTextHash": "9a035651e285bba20853b48d135aa7f2094b857ec7dbdd4e370b2dd21bfb7550",
+      "bodyTextPrefix": "NINE ERAS · ONE ORBIT UNIVERSE 0% OPENING THE NIGHT I can't feel",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "XO Universe",
+      "hasCanvas": false,
+      "bodyTextLen": 155,
+      "bodyTextHash": "1ede2285266dce10cdac6c49667d0182e55c0df1164b09cd5a68053f7a4bc5bb",
+      "bodyTextPrefix": "NINE ERAS · ONE ORBIT UNIVERSE ENTER THE NIGHT I can't feel my f",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
